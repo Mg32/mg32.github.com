@@ -1,0 +1,18 @@
+
+$ gem install jekyll
+
+$ jekyll s
+http://localhost:4000
+
+-------------------------------------------------------------------------------
+
+Jekyll + github pages を使って git + markdown でサイト構築
+http://akkunchoi.github.io/jekyll-github-blogging.html
+
+Configuration - Jekyll
+http://jekyllrb.com/docs/configuration/
+    _config.yml の設定項目一覧
+
+Front Matter - Jekyll
+http://jekyllrb.com/docs/frontmatter/
+    Markdown (.md) の書式
