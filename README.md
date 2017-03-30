@@ -1,1 +1,1 @@
-"# mg32.github.com" 
+# mg32.github.com
