@@ -22,7 +22,7 @@ title: Mg32 (mogesystem)
 
 ### Audio plug-ins
 -   [Inharmonic](https://github.com/Mg32/Inharmonic)<br>
-    VSTインストゥルメント: ピアノの非調和性倍音を応用した金属的な音色のシンセサイザ
+    VSTインストゥルメント: ピアノの非調和性倍音を応用した金属的な音色のシンセサイザ ([Demo Movie](https://www.youtube.com/watch?v=a1Dy48y92fs))
 -   [SymmetricPingPongDelay](https://github.com/Mg32/SymmetricPingPongDelay)<br>
     VSTエフェクト: 左右対称のゲインでフィードバックするピンポンディレイ
 -   [mgSinusoid](https://github.com/Mg32/vst_csm)<br>
